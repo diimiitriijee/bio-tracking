@@ -1,0 +1,28 @@
+.searchBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Opciono, ovisno o vašim potrebama */
+}
+.searchResults{
+  height: 100px;
+}
+
+
+.cbLekovita{
+  margin-left: 9%;
+}
+
+.segmentClass {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+}
+
+.formClass {
+  height: 100%;
+}
+
+.sticky-footer {
+  margin-top: auto;
+}

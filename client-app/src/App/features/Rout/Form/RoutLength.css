@@ -1,0 +1,14 @@
+.input-container {
+    position: relative;
+  }
+  
+  .input-container input {
+    padding-right: 20px; /* Ovo će dodati dovoljno prostora na desnoj strani za "km" */
+  }
+  
+  .input-container span {
+    position: absolute;
+    top: 0;
+    right: 5px; /* Podešavanje položaja "km" na desnoj strani */
+    line-height: 38px; /* Centriranje vertikalno */
+  }

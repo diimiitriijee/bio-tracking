@@ -1,0 +1,26 @@
+.ui.inverted.top.fixed.menu{
+    background-image: linear-gradient(to right, rgb(0, 102, 255), rgb(179, 209, 255));
+}
+body{
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100; 
+}
+
+.ui.tiny.borderless.inverted.attached.menu
+{
+  background-image: linear-gradient(to right, rgb(0, 102, 255), rgb(179, 209, 255));
+
+}
+
+.ui.inverted.vertical.labeled.icon.ui.overlay.left.thin.visible.sidebar.menu{
+  background-image: linear-gradient(to right, rgb(0, 102, 255), rgb(179, 209, 255));
+  z-index: 11;
+
+}
+.ui.inverted.vertical.labeled.icon.ui.overlay.left.thin.animating.sidebar.menu{
+  background-image: linear-gradient(to right, rgb(0, 102, 255), rgb(179, 209, 255));
+  z-index: 11;
+
+}
